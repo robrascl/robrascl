@@ -13,9 +13,9 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=github&label=Profile%20views&color=0e75b6&style=flat" alt="github" /> </p>
 
-- 🔭 I’m currently working on [a Bootcamp](Ruby on Rails)
+- 🔭
 <p> <a href="https://www.acreditta.com/credential/465ca33c-cedb-4e58-9d2f-5a259dcb813d" ><img src="http://www.robras.cl/images/1711049615663.png" height="190" width="190" alt=""></a></p>
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently working on **Ruby on Rails**
 
 - 📫 How to reach me **linkedin**
 
